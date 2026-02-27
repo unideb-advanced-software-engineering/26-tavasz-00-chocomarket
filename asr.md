@@ -30,3 +30,6 @@ A rendszerhez hozzáadhatók egyedi integrációk, ha a konzerv FTP/HTTP/stb. me
 ### Kafka
 
 A szervezetünk kiterjedt [Kafka](https://kafka.apache.org/)-tapasztalattal rendelkezik, melyet érdemes lehet kihasználni ebben a projektben, szemben más, hasonló technológiákkal.
+
+**Miért ASR?**
+Ha valamilyen messaging-alapú architektúrát tervezünk, akkor más technológiák helyett építsünk a már meglevő Kafka-tapasztalatra, ahelyett, hogy például AWS SQS-t vagy NATS-t használnánk. Ezzel gyorsítani tudjuk a projektet, valamint jól ki tudjuk használni a szervezetünk erősségeit.
