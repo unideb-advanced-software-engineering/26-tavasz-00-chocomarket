@@ -1,4 +1,7 @@
-# Architekturálisan szignifikáns követelmények
+---
+title: "Architekturálisan szignifikáns követelmények"
+description: "Az azonosított architekturálisan szignifikáns követelmények."
+---
 
 ## ZDR általános követelmények
 

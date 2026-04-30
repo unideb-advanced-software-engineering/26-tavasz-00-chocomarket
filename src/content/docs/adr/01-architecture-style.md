@@ -1,3 +1,8 @@
+---
+title: "ADR-01: Architecture Style"
+description: "A választott architekturális stílust leíró ADR."
+---
+
 # ADR-01: Architecture Style
 
 In the context of

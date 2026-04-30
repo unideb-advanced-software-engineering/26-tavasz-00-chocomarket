@@ -1,4 +1,7 @@
-# Architekturális stílus
+---
+title: "Architekturális stílus"
+description: "A választott architekturális stílus leírása."
+---
 
 A projekthez választott architekturális stílusok az alábbiak:
 - Event-driven architecture.

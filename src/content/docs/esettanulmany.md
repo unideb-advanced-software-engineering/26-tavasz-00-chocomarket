@@ -1,4 +1,7 @@
-# Esettanulmány: ChocoMarket
+---
+title: "Esettanulmány: ChocoMarket"
+description: "Az eredeti esettanulmány."
+---
 
 ## Háttér
 

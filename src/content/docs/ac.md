@@ -1,3 +1,9 @@
+---
+title: "Architekturális karakterisztikák"
+description: "Az azonosított architekturális karakterisztikák."
+---
+
+
 # Architekturális karakterisztikák
 
 ## Bővíthetőség
