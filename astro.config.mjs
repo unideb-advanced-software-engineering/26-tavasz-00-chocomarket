@@ -7,6 +7,8 @@ import { LikeC4VitePlugin } from "likec4/vite-plugin";
 
 // https://astro.build/config
 export default defineConfig({
+  site: "https://unideb-advanced-software-engineering.github.io",
+  base: "/26-tavasz-00-chocomarket",
   vite: {
     plugins: [LikeC4VitePlugin({})],
   },
