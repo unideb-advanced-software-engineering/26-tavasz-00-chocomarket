@@ -14,14 +14,16 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "ChocoMarket",
+      defaultLocale: "hu",
       social: [
         {
           icon: "github",
           label: "GitHub",
-          href: "https://github.com/withastro/starlight",
+          href: "https://github.com/unideb-advanced-software-engineering/26-tavasz-00-chocomarket",
         },
       ],
+      customCss: ["./src/styles/custom.css"],
       sidebar: [
         {
           label: "Esettanulmány",
